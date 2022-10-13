@@ -1,5 +1,5 @@
 ### 
-[![GitHub Views](https://komarev.com/ghpvc/?username=Rushnan-Faria&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=Rushnan-Faria&color=FAC151)
 
 <div id="badges" align="center">
   Hi there 👋<br>
