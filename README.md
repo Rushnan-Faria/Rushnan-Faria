@@ -1,8 +1,11 @@
 ### Hi there 👋
 🌱 I’m currently learning Software Testing.
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rushnan-faria-350066199/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/Rushnan_1604110?f0a28=1">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div id="header" align="center">
