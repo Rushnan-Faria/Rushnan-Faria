@@ -1,6 +1,7 @@
-### Hi there 👋
-🌱 I’m currently learning Software Testing.
+### 
 <div id="badges" align="center">
+  Hi there 👋
+🌱 I’m currently learning Software Testing.
   <a href="https://www.linkedin.com/in/rushnan-faria-350066199/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
