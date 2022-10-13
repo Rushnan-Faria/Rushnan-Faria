@@ -1,5 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning Software Testing.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Rushnan-Faria/Rushnan-Faria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
