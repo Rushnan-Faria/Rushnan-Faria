@@ -1,4 +1,5 @@
 ### 
+![Visitor Count](https://profile-counter.glitch.me/Rushnan-Faria/count.svg)
 <div id="badges" align="center">
   Hi there 👋<br>
 🌱 I’m currently learning Software Testing.<br>
