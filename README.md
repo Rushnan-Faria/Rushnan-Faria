@@ -1,5 +1,6 @@
 ### 
-![Visitor Count](https://profile-counter.glitch.me/Rushnan-Faria/count.svg)
+[![GitHub Views](https://komarev.com/ghpvc/?username=Rushnan-Faria&color=FAC151)][1]
+
 <div id="badges" align="center">
   Hi there 👋<br>
 🌱 I’m currently learning Software Testing.<br>
