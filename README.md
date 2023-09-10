@@ -3,6 +3,8 @@
 
 <div id="badges" align="center">
   Hi there 👋<br>
+  I am Rushnan Faria<br>
+  Jr. SQA Engineer at Metafour Asia LTD<br>
   <a href="https://www.linkedin.com/in/rushnan-faria-350066199/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
